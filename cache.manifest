@@ -1,0 +1,12 @@
+CACHE MANIFEST
+# Wed Oct 16 2013 03:19:00 CEST 2013
+
+# liste les fichiers à mettre en cache
+CACHE:
+index.html
+
+# liste les fichiers qui nécessitent obligatoirement une connexion internet
+NETWORK:
+
+# liste les fichiers qui, au cas où ils ne soient pas accessibles en ligne, doivent renvoyer vers d’autres fichiers.
+FALLBACK:
