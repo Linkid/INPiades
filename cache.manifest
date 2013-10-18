@@ -1,12 +1,15 @@
 CACHE MANIFEST
-# Wed Oct 16 2013 03:19:00 CEST 2013
+# Wed Oct 17 2013 08:19:00 CEST 2013
 
 # liste les fichiers à mettre en cache
-CACHE:
+#CACHE:
 index.html
+style/main.css
+js/_javascript.js
+style/apple-touch-icon.png
 
 # liste les fichiers qui nécessitent obligatoirement une connexion internet
-NETWORK:
+#NETWORK:
 
 # liste les fichiers qui, au cas où ils ne soient pas accessibles en ligne, doivent renvoyer vers d’autres fichiers.
-FALLBACK:
+#FALLBACK:
