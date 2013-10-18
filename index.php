@@ -32,7 +32,7 @@
     <!-- Menus -->
     <nav>
       <ul data-role="listview" data-inset="true">
-        <li>Vendredi 15 novembre 2013</li>
+        <li><a href="planning.php?date=20131115" data-transition="slide">Vendredi 15 novembre 2013</a></li>
         <li>Samedi 16 novembre 2013</li>
         <li>Dimanche 17 novembre 2013</li>
       </ul>
