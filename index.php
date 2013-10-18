@@ -45,7 +45,7 @@
     </nav>
 
     <!-- Footer -->
-    <footer>
+    <footer data-role="footer" role="contentinfo">
       Dernière mise à jour :
     </footer>
 
