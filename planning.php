@@ -7,7 +7,7 @@
 
   <body>
   <div data-role="page">
-    <?php include('core_body_.php'); ?>
+    <?php include('body_header_.php'); ?>
 
     <section data-role="collapsible-set">
       <h1 data-role="collapsible" data-content-theme="d">9H - Accueil</h1>
@@ -15,6 +15,8 @@
         Coucou !
       </article>
     </section>
+
+    <?php include('body_footer_.php'); ?>
   </div>
   </body>
 </html>
