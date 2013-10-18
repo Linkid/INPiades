@@ -10,10 +10,12 @@
     <?php include('body_header_.php'); ?>
 
     <section data-role="collapsible-set">
-      <h1 data-role="collapsible" data-content-theme="d">9H - Accueil</h1>
-      <article>
-        Coucou !
-      </article>
+      <div data-role="collapsible" data-content-theme="d">
+        <h1>9H - Accueil</h1>
+        <article>
+          Coucou !
+        </article>
+      </div>
     </section>
 
     <?php include('body_footer_.php'); ?>
